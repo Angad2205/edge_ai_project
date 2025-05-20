@@ -22,6 +22,7 @@ os.chdir('yolov5')
 # Step 4: Upload Your Trained Weights (best.pt)
 
 from google.colab import files  # Ignore if using local Jupyter
+
 uploaded = files.upload()       # This will prompt file upload
 
  Step 5: Load the Model
@@ -39,8 +40,11 @@ results = model(img)
 
 # Show result
 results.print()
+
 plt.imshow(np.squeeze(results.render()))
+
 plt.axis('off')
+
 plt.show()
 
 # Use camera function used in it for using camera frames 
