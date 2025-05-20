@@ -2,6 +2,8 @@
 Sign_detection
 First Upload the best.pt file in the note book from the github repo and then follow the steps 
 
+Note -> i have trained the model in collab so if by chance any error comes so just do gpt it will convet the command compaitable to juipter note bokk althought if have done it alread but still if their is the problem then you can do that 
+
 # Step 1: Clone YOLOv5 Repository
  
 !git clone https://github.com/ultralytics/yolov5
