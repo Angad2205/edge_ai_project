@@ -3,19 +3,24 @@ Sign_detection
 First Upload the best.pt file in the note book and then run this command 
 
  Step 1: Clone YOLOv5 Repository
+ 
 !git clone https://github.com/ultralytics/yolov5
 
 Step 2: Change Directory to yolov5
+
 import os
 os.chdir('yolov5')
 
 Step 3: Install Dependencies
+
 !pip install -r requirements.txt
 
 if using the virtual env then also run this 
+
 !pip install seaborn torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 Step 4: Upload Your Trained Weights (best.pt)
+
 from google.colab import files  # Ignore if using local Jupyter
 uploaded = files.upload()       # This will prompt file upload
 
