@@ -25,7 +25,7 @@ from google.colab import files  # Ignore if using local Jupyter
 
 uploaded = files.upload()       # This will prompt file upload
 
- Step 5: Load the Model
+# Step 5: Load the Model
  
  import cv2
 from matplotlib import pyplot as plt
