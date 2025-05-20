@@ -49,7 +49,7 @@ plt.axis('off')
 
 plt.show()
 
-# Use camera function used in it for using camera frames 
+# Use camera function of the Jetbot 
 
 ![Pred](https://github.com/user-attachments/assets/c7d13fad-822f-439d-843a-53c9b0ba47c9)
 
