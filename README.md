@@ -49,6 +49,16 @@ plt.axis('off')
 
 plt.show()
 
+# How buggy should perform on detection 
+
+For stop sign -> Buggy will stop (Use Stop function of jetbot)
+
+for Speed Sign it will change the speed (Use Speed controller of jetbot)
+
+For traffic light it will go 
+
+
+
 # Use camera function of the Jetbot 
 
 ![Pred](https://github.com/user-attachments/assets/c7d13fad-822f-439d-843a-53c9b0ba47c9)
