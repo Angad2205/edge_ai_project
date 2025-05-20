@@ -1,6 +1,6 @@
 # Steps for Model 
 Sign_detection
-First Upload the best.pt file in the note book from the github repo and then run this command 
+First Upload the best.pt file in the note book from the github repo and then follow the steps 
 
 # Step 1: Clone YOLOv5 Repository
  
